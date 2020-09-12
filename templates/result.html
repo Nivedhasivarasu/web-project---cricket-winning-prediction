@@ -1,0 +1,32 @@
+{% load static %}
+<!DOCTYPE html>
+<html >
+<head>
+    <title>Document</title>
+<style>
+        .bg-img {
+            background-image: url("{% static 'resultpage.jpg' %}");
+            min-height: 600px;
+              background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            position: relative;
+          }
+</style>
+</head>
+<body text="white">
+        <div class="bg-img">
+    <center><h2>PREDICTED DETAILS:</h2></center>
+    <h3>PLAYING TEAMA: {{obj.teamA}}</h3>
+    <h3>PLAYING TEAMB: {{obj.teamB}}</h3>
+    <h3>PLAYING VENU: {{obj.city}}</h3>
+    <h3>TOSS WINNING: {{obj.tosswinning}}</h3>
+    <h3>TOSS DECISION: {{obj.tossdes}}</h3>
+    <h3>WINNING PROBABILITY OF TEAM-A BASED ON PREVIOUS MATCHES: {{obj.poss}}</h3>
+    <h3>WINNING PROBABILITY OF TEAM-B BASED ON PREVIOUS MATCHES: {{obj.poss2}}</h3>
+    <h3>WINNING PROBABILITY OF TEAM BATTING FIRST : {{obj.poss1}}</h3><br><br>
+    
+    
+    <font color="red"><h2><b><i>WINNING TEAM OF THE MATCH: {{obj.winning}}</h2></font><b>
+   </div> </body>
+</html>

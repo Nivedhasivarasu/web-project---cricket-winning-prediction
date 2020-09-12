@@ -1,0 +1,546 @@
+,Toss,MatchID,Toss_Decision,Margin,Winner,Date,Venue,TeamA,TeamB,HTH,WinningPerDes,Strength,latest_form
+0,South Africa,514036,field,5 wickets,South Africa,2012-01-14 00:00:00,East London,South Africa,Sri Lanka,0,0,0,0
+1,South Africa,514038,bat,5 wickets,Sri Lanka,2012-01-20 00:00:00,Kimberley,South Africa,Sri Lanka,0,0,0,0
+2,South Africa,514035,bat,258 runs,South Africa,2012-01-11 00:00:00,Paarl,South Africa,Sri Lanka,0,0,0,0
+3,Sri Lanka,514039,field,2 wickets,Sri Lanka,2012-01-22 00:00:00,Johannesburg,South Africa,Sri Lanka,0,0,0,0
+4,Zimbabwe,520592,field,90 runs,New Zealand,2012-02-03 00:00:00,Dunedin,New Zealand,Zimbabwe,0,0,0,0
+5,New Zealand,520594,bat,202 runs,New Zealand,2012-02-09 00:00:00,Napier,New Zealand,Zimbabwe,0,0,0,0
+6,Sri Lanka,518957,bat,4 wickets,India,2012-02-08 00:00:00,Perth,India,Sri Lanka,0,0,0,0
+7,Australia,518959,bat,4 wickets,India,2012-02-12 00:00:00,Adelaide,Australia,India,0,0,0,0
+8,Zimbabwe,520593,field,141 runs,New Zealand,2012-02-06 00:00:00,Whangarei,New Zealand,Zimbabwe,0,0,0,0
+9,Afghanistan,545656,bat,7 wickets,Pakistan,2012-02-10 00:00:00,Sharjah,Afghanistan,Pakistan,0,0,0,0
+10,England,531631,bat,130 runs,England,2012-02-13 00:00:00,Abu Dhabi,England,Pakistan,0,0,0,0
+11,Sri Lanka,518958,field,5 runs,Australia,2012-02-10 00:00:00,Perth,Australia,Sri Lanka,0,0,0,0
+12,England,531632,bat,20 runs,England,2012-02-15 00:00:00,Abu Dhabi,England,Pakistan,0,0,0,0
+13,Pakistan,531633,bat,9 wickets,England,2012-02-18 00:00:00,Dubai (DSC),England,Pakistan,0,0,0,0
+14,Ireland,543882,bat,117 runs,Ireland,2012-02-20 00:00:00,Mombasa,Ireland,Kenya,0,0,0,0
+15,Ireland,543881,bat,7 wickets,Kenya,2012-02-18 00:00:00,Mombasa,Ireland,Kenya,0,0,0,0
+16,Australia,518962,bat,110 runs,Australia,2012-02-19 00:00:00,Brisbane,Australia,India,0,0,0,0
+17,Sri Lanka,518963,bat,51 runs,Sri Lanka,2012-02-21 00:00:00,Brisbane,India,Sri Lanka,0,0,0,0
+18,West Indies,661689,field,159 runs,New Zealand,2014-01-01 00:00:00,Queenstown,New Zealand,West Indies,0,0,0,0
+19,India,667641,field,24 runs,New Zealand,2014-01-19 00:00:00,Napier,India,New Zealand,0,0,0,0
+20,England,636159,bat,6 wickets,Australia,2014-01-12 00:00:00,Melbourne,Australia,England,0,0,0,0
+21,New Zealand,661693,field,203 runs,West Indies,2014-01-08 00:00:00,Hamilton,New Zealand,West Indies,0,0,0,0
+22,Pakistan,531634,bat,4 wickets,England,2012-02-21 00:00:00,Dubai (DSC),England,Pakistan,0,0,0,0
+23,England,636160,bat,1 wicket,Australia,2014-01-17 00:00:00,Brisbane,Australia,England,0,0,0,0
+24,England,636161,bat,7 wickets,Australia,2014-01-19 00:00:00,Sydney,Australia,England,0,0,0,0
+25,Canada,696731,field,170 runs,Scotland,2014-01-23 00:00:00,Christchurch,Canada,Scotland,0,0,0,0
+26,Kenya,696733,field,4 wickets,Kenya,2014-01-23 00:00:00,Lincoln,Kenya,Netherlands,0,0,0,0
+27,Australia,636162,field,57 runs,England,2014-01-24 00:00:00,Perth,Australia,England,0,0,0,0
+28,Canada,696747,bat,8 wickets,Netherlands,2014-01-28 00:00:00,Mount Maunganui,Canada,Netherlands,0,0,0,0
+29,India,667647,bat,7 wickets,New Zealand,2014-01-28 00:00:00,Hamilton,India,New Zealand,0,0,0,0
+30,Australia,636163,bat,5 runs,Australia,2014-01-26 00:00:00,Adelaide,Australia,England,0,0,0,0
+31,Kenya,696759,bat,3 wickets,Scotland,2014-01-30 00:00:00,Christchurch,Kenya,Scotland,0,0,0,0
+32,Scotland,696763,bat,41 runs,Scotland,2014-02-01 00:00:00,Lincoln,Scotland,United Arab Emirates,0,0,0,0
+33,India,667649,field,87 runs,New Zealand,2014-01-31 00:00:00,Wellington,India,New Zealand,0,0,0,0
+34,Sri Lanka,690359,field,6 wickets,Sri Lanka,2014-02-22 00:00:00,Dhaka,Bangladesh,Sri Lanka,0,0,0,0
+35,Bangladesh,690355,field,13 runs,Sri Lanka,2014-02-17 00:00:00,Dhaka,Bangladesh,Sri Lanka,0,0,0,0
+36,Sri Lanka,690357,bat,61 runs,Sri Lanka,2014-02-20 00:00:00,Dhaka,Bangladesh,Sri Lanka,0,0,0,0
+37,Ireland,702139,bat,4 wickets,West Indies,2014-02-23 00:00:00,Kingston,Ireland,West Indies,0,0,0,0
+38,New Zealand,520600,bat,6 wickets,South Africa,2012-02-25 00:00:00,Wellington,New Zealand,South Africa,0,0,0,0
+39,Australia,518964,bat,3 wickets,Sri Lanka,2012-02-24 00:00:00,Hobart,Australia,Sri Lanka,0,0,0,0
+40,Australia,518965,bat,87 runs,Australia,2012-02-26 00:00:00,Sydney,Australia,India,0,0,0,0
+41,India,518966,field,7 wickets,India,2012-02-28 00:00:00,Hobart,India,Sri Lanka,0,0,0,0
+42,Sri Lanka,518967,bat,9 runs,Sri Lanka,2012-03-02 00:00:00,Melbourne,Australia,Sri Lanka,0,0,0,0
+43,South Africa,520602,field,5 wickets,South Africa,2012-03-03 00:00:00,Auckland,New Zealand,South Africa,0,0,0,0
+44,South Africa,520601,field,6 wickets,South Africa,2012-02-29 00:00:00,Napier,New Zealand,South Africa,0,0,0,0
+45,Australia,518969,bat,8 wickets,Sri Lanka,2012-03-06 00:00:00,Adelaide,Australia,Sri Lanka,0,0,0,0
+46,Sri Lanka,518970,field,16 runs,Australia,2012-03-08 00:00:00,Adelaide,Australia,Sri Lanka,0,0,0,0
+47,Australia,518968,bat,15 runs,Australia,2012-03-04 00:00:00,Brisbane,Australia,Sri Lanka,0,0,0,0
+48,Bangladesh,535794,field,21 runs,Pakistan,2012-03-11 00:00:00,Dhaka,Bangladesh,Pakistan,0,0,0,0
+49,Sri Lanka,535795,field,50 runs,India,2012-03-13 00:00:00,Dhaka,India,Sri Lanka,0,0,0,0
+50,Australia,540168,bat,64 runs,Australia,2012-03-16 00:00:00,Kingstown,Australia,West Indies,0,0,0,0
+51,Bangladesh,535797,field,5 wickets,Bangladesh,2012-03-16 00:00:00,Dhaka,Bangladesh,India,0,0,0,0
+52,Sri Lanka,535796,bat,6 wickets,Pakistan,2012-03-15 00:00:00,Dhaka,Pakistan,Sri Lanka,0,0,0,0
+53,Pakistan,535798,bat,6 wickets,India,2012-03-18 00:00:00,Dhaka,India,Pakistan,0,0,0,0
+54,Australia,540171,field,42 runs,West Indies,2012-03-23 00:00:00,Gros Islet,Australia,West Indies,0,0,0,0
+55,West Indies,540172,field,30 runs,Australia,2012-03-25 00:00:00,Gros Islet,Australia,West Indies,0,0,0,0
+56,Bangladesh,535800,field,2 runs,Pakistan,2012-03-22 00:00:00,Dhaka,Bangladesh,Pakistan,0,0,0,0
+57,Sri Lanka,710291,bat,12 runs,Sri Lanka,2014-02-25 00:00:00,Fatullah,Pakistan,Sri Lanka,0,0,0,0
+58,India,710293,field,6 wickets,India,2014-02-26 00:00:00,Fatullah,Bangladesh,India,0,0,0,0
+59,Afghanistan,710295,field,72 runs,Pakistan,2014-02-27 00:00:00,Fatullah,Afghanistan,Pakistan,0,0,0,0
+60,Pakistan,710301,field,1 wicket,Pakistan,2014-03-02 00:00:00,Dhaka,India,Pakistan,0,0,0,0
+61,Sri Lanka,710297,field,2 wickets,Sri Lanka,2014-02-28 00:00:00,Fatullah,India,Sri Lanka,0,0,0,0
+62,England,636534,field,3 wickets,England,2014-03-02 00:00:00,North Sound,England,West Indies,0,0,0,0
+63,Sri Lanka,710303,bat,129 runs,Sri Lanka,2014-03-03 00:00:00,Dhaka,Afghanistan,Sri Lanka,0,0,0,0
+64,Bangladesh,710305,bat,3 wickets,Pakistan,2014-03-04 00:00:00,Dhaka,Bangladesh,Pakistan,0,0,0,0
+65,England,636533,field,15 runs,West Indies,2014-02-28 00:00:00,North Sound,England,West Indies,0,0,0,0
+66,Bangladesh,710299,field,32 runs,Afghanistan,2014-03-01 00:00:00,Fatullah,Afghanistan,Bangladesh,0,0,0,0
+67,India,710307,field,8 wickets,India,2014-03-05 00:00:00,Dhaka,Afghanistan,India,0,0,0,0
+68,West Indies,636535,field,25 runs,England,2014-03-05 00:00:00,North Sound,England,West Indies,0,0,0,0
+69,United Arab Emirates,736503,field,70 runs,Afghanistan,2014-05-02 00:00:00,Kuala Lumpur,Afghanistan,United Arab Emirates,0,0,0,0
+70,Pakistan,710311,bat,5 wickets,Sri Lanka,2014-03-08 00:00:00,Dhaka,Pakistan,Sri Lanka,0,0,0,0
+71,Ireland,706767,field,79 runs,Sri Lanka,2014-05-06 00:00:00,Dublin,Ireland,Sri Lanka,0,0,0,0
+72,United Arab Emirates,736511,field,2 wickets,United Arab Emirates,2014-05-04 00:00:00,Kuala Lumpur,Hong Kong,United Arab Emirates,0,0,0,0
+73,Bangladesh,710309,bat,3 wickets,Sri Lanka,2014-03-06 00:00:00,Dhaka,Bangladesh,Sri Lanka,0,0,0,0
+74,Afghanistan,736497,field,6 wickets,Afghanistan,2014-05-01 00:00:00,Kuala Lumpur,Afghanistan,Hong Kong,0,0,0,0
+75,Afghanistan,543888,bat,9 wickets,Netherlands,2012-03-29 00:00:00,Sharjah,Afghanistan,Netherlands,0,0,0,0
+76,Afghanistan,543889,field,5 wickets,Afghanistan,2012-03-31 00:00:00,Sharjah,Afghanistan,Netherlands,0,0,0,0
+77,Sri Lanka,562440,bat,76 runs,Sri Lanka,2012-06-09 00:00:00,Pallekele,Pakistan,Sri Lanka,0,0,0,0
+78,Sri Lanka,562442,bat,44 runs,Sri Lanka,2012-06-16 00:00:00,Colombo (RPS),Pakistan,Sri Lanka,0,0,0,0
+79,Pakistan,562443,bat,2 wickets,Sri Lanka,2012-06-18 00:00:00,Colombo (RPS),Pakistan,Sri Lanka,0,0,0,0
+80,Australia,534215,field,15 runs,England,2012-06-29 00:00:00,Lord's,Australia,England,0,0,0,0
+81,England,534210,field,8 wickets,England,2012-06-19 00:00:00,The Oval,England,West Indies,0,0,0,0
+82,Afghanistan,555892,field,59 runs,Ireland,2012-07-05 00:00:00,Dublin,Afghanistan,Ireland,0,0,0,0
+83,Australia,534216,bat,6 wickets,England,2012-07-01 00:00:00,The Oval,Australia,England,0,0,0,0
+84,England,534218,field,8 wickets,England,2012-07-07 00:00:00,Chester-le-Street,Australia,England,0,0,0,0
+85,New Zealand,560924,field,55 runs,West Indies,2012-07-07 00:00:00,Kingston,New Zealand,West Indies,0,0,0,0
+86,Scotland,555894,field,4 wickets,Scotland,2012-07-11 20:12:00,Ayr,Canada,Scotland,0,0,0,0
+87,West Indies,560925,field,88 runs,New Zealand,2012-07-11 00:00:00,Basseterre,New Zealand,West Indies,0,0,0,0
+88,India,564781,bat,21 runs,India,2012-07-21 00:00:00,Hambantota,India,Sri Lanka,0,0,0,0
+89,West Indies,560926,bat,24 runs,West Indies,2012-07-14 00:00:00,Basseterre,New Zealand,West Indies,0,0,0,0
+90,West Indies,560927,bat,20 runs,West Indies,2012-07-16 00:00:00,Basseterre,New Zealand,West Indies,0,0,0,0
+91,India,564782,bat,9 wickets,Sri Lanka,2012-07-24 00:00:00,Hambantota,India,Sri Lanka,0,0,0,0
+92,Sri Lanka,564783,bat,5 wickets,India,2012-07-28 00:00:00,Colombo (RPS),India,Sri Lanka,0,0,0,0
+93,England,667891,field,157 runs,Sri Lanka,2014-05-25 00:00:00,Chester-le-Street,England,Sri Lanka,0,0,0,0
+94,England,667893,field,10 wickets,England,2014-05-28 00:00:00,Manchester,England,Sri Lanka,0,0,0,0
+95,England,667897,bat,6 wickets,Sri Lanka,2014-06-03 00:00:00,Birmingham,England,Sri Lanka,0,0,0,0
+96,England,667895,field,7 runs,Sri Lanka,2014-05-31 00:00:00,Lord's,England,Sri Lanka,0,0,0,0
+97,South Africa,730083,bat,75 runs,South Africa,2014-07-06 00:00:00,Colombo (RPS),South Africa,Sri Lanka,0,0,0,0
+98,South Africa,730087,bat,82 runs,South Africa,2014-07-12 00:00:00,Hambantota,South Africa,Sri Lanka,0,0,0,0
+99,Zimbabwe,756035,field,6 wickets,Zimbabwe,2014-07-18 00:00:00,Bulawayo,Afghanistan,Zimbabwe,0,0,0,0
+100,Sri Lanka,730085,bat,87 runs,Sri Lanka,2014-07-09 00:00:00,Pallekele,South Africa,Sri Lanka,0,0,0,0
+101,Afghanistan,756039,field,2 wickets,Afghanistan,2014-07-22 00:00:00,Bulawayo,Afghanistan,Zimbabwe,0,0,0,0
+102,Zimbabwe,756037,field,8 wickets,Zimbabwe,2014-07-20 00:00:00,Bulawayo,Afghanistan,Zimbabwe,0,0,0,0
+103,Zimbabwe,756041,field,100 runs,Afghanistan,2014-07-24 00:00:00,Bulawayo,Afghanistan,Zimbabwe,0,0,0,0
+104,Zimbabwe,736437,field,93 runs,South Africa,2014-08-17 00:00:00,Bulawayo,South Africa,Zimbabwe,0,0,0,0
+105,Zimbabwe,736439,field,61 runs,South Africa,2014-08-19 00:00:00,Bulawayo,South Africa,Zimbabwe,0,0,0,0
+106,Bangladesh,730289,field,177 runs,West Indies,2014-08-22 00:00:00,St George's,Bangladesh,West Indies,0,0,0,0
+107,West Indies,730287,field,3 wickets,West Indies,2014-08-20 00:00:00,St George's,Bangladesh,West Indies,0,0,0,0
+108,South Africa,736441,field,7 wickets,South Africa,2014-08-21 00:00:00,Bulawayo,South Africa,Zimbabwe,0,0,0,0
+109,Zimbabwe,736443,field,198 runs,Australia,2014-08-25 00:00:00,Harare,Australia,Zimbabwe,0,0,0,0
+110,West Indies,730291,bat,91 runs,West Indies,2014-08-25 00:00:00,Basseterre,Bangladesh,West Indies,0,0,0,0
+111,Sri Lanka,564784,bat,6 wickets,India,2012-07-31 00:00:00,Colombo (RPS),India,Sri Lanka,0,0,0,0
+112,India,564785,bat,20 runs,India,2012-08-04 00:00:00,Pallekele,India,Sri Lanka,0,0,0,0
+113,South Africa,534229,bat,80 runs,South Africa,2012-08-28 00:00:00,Southampton,England,South Africa,0,0,0,0
+114,Sri Lanka,745161,bat,77 runs,Sri Lanka,2014-08-26 00:00:00,Hambantota,Pakistan,Sri Lanka,0,0,0,0
+115,Australia,571947,bat,66 runs,Australia,2012-08-25 00:00:00,Sharjah,Afghanistan,Australia,0,0,0,0
+116,Pakistan,571145,bat,4 wickets,Australia,2012-08-28 00:00:00,Sharjah,Australia,Pakistan,0,0,0,0
+117,Australia,571146,bat,7 wickets,Pakistan,2012-08-31 00:00:00,Abu Dhabi,Australia,Pakistan,0,0,0,0
+118,South Africa,534230,bat,4 wickets,England,2012-08-31 00:00:00,The Oval,England,South Africa,0,0,0,0
+119,England,534231,field,6 wickets,England,2012-09-02 00:00:00,Lord's,England,South Africa,0,0,0,0
+120,England,534232,bat,7 wickets,South Africa,2012-09-05 00:00:00,Nottingham,England,South Africa,0,0,0,0
+121,Australia,571147,field,3 wickets,Australia,2012-09-03 00:00:00,Sharjah,Australia,Pakistan,0,0,0,0
+122,West Indies,587472,field,160 runs,Bangladesh,2012-12-02 00:00:00,Khulna,Bangladesh,West Indies,0,0,0,0
+123,West Indies,587471,bat,7 wickets,Bangladesh,2012-11-30 00:00:00,Khulna,Bangladesh,West Indies,0,0,0,0
+124,Bangladesh,587474,field,75 runs,West Indies,2012-12-07 00:00:00,Dhaka,Bangladesh,West Indies,0,0,0,0
+125,Bangladesh,587475,field,2 wickets,Bangladesh,2012-12-08 00:00:00,Dhaka,Bangladesh,West Indies,0,0,0,0
+126,West Indies,587473,field,4 wickets,West Indies,2012-12-05 00:00:00,Dhaka,Bangladesh,West Indies,0,0,0,0
+127,South Africa,736445,field,7 wickets,South Africa,2014-08-27 00:00:00,Harare,Australia,South Africa,0,0,0,0
+128,Pakistan,589308,field,6 wickets,Pakistan,2012-12-30 00:00:00,Chennai,India,Pakistan,0,0,0,0
+129,Zimbabwe,736447,field,61 runs,South Africa,2014-08-29 00:00:00,Harare,South Africa,Zimbabwe,0,0,0,0
+130,India,667725,field,6 wickets,India,2014-08-30 00:00:00,Nottingham,England,India,0,0,0,0
+131,South Africa,736451,field,62 runs,Australia,2014-09-02 00:00:00,Harare,Australia,South Africa,0,0,0,0
+132,India,667727,field,9 wickets,India,2014-09-02 00:00:00,Birmingham,England,India,0,0,0,0
+133,Zimbabwe,736453,field,63 runs,South Africa,2014-09-04 00:00:00,Harare,South Africa,Zimbabwe,0,0,0,0
+134,India,667729,field,41 runs,England,2014-09-05 00:00:00,Leeds,England,India,0,0,0,0
+135,Ireland,727935,field,7 wickets,Ireland,2014-09-08 00:00:00,Dublin (Malahide),Ireland,Scotland,0,0,0,0
+136,Australia,736449,bat,3 wickets,Zimbabwe,2014-08-31 00:00:00,Harare,Australia,Zimbabwe,0,0,0,0
+137,South Africa,736455,field,6 wickets,South Africa,2014-09-06 00:00:00,Harare,Australia,South Africa,0,0,0,0
+138,Scotland,727939,field,8 wickets,Scotland,2014-09-12 00:00:00,Dublin (Malahide),Ireland,Scotland,0,0,0,0
+139,Ireland,727937,field,3 wickets,Ireland,2014-09-10 00:00:00,Dublin (Malahide),Ireland,Scotland,0,0,0,0
+140,Australia,727919,bat,93 runs,Australia,2014-10-07 00:00:00,Sharjah,Australia,Pakistan,0,0,0,0
+141,India,770123,bat,48 runs,India,2014-10-11 00:00:00,Delhi,India,West Indies,0,0,0,0
+142,India,770121,field,124 runs,West Indies,2014-10-08 00:00:00,Kochi,India,West Indies,0,0,0,0
+143,Pakistan,727921,bat,5 wickets,Australia,2014-10-10 00:00:00,Dubai (DSC),Australia,Pakistan,0,0,0,0
+144,South Africa,749771,field,6 wickets,South Africa,2014-10-21 00:00:00,Mount Maunganui,New Zealand,South Africa,0,0,0,0
+145,West Indies,770127,field,59 runs,India,2014-10-17 00:00:00,Dharamsala,India,West Indies,0,0,0,0
+146,Australia,727923,bat,1 run,Australia,2014-10-12 00:00:00,Abu Dhabi,Australia,Pakistan,0,0,0,0
+147,New Zealand,749773,field,72 runs,South Africa,2014-10-24 00:00:00,Mount Maunganui,New Zealand,South Africa,0,0,0,0
+148,Hong Kong,791635,bat,3 wickets,Papua New Guinea,2014-11-09 00:00:00,Townsville,Hong Kong,Papua New Guinea,0,0,0,0
+149,India,792295,bat,153 runs,India,2014-11-13 00:00:00,Kolkata,India,Sri Lanka,0,0,0,0
+150,Sri Lanka,792289,field,169 runs,India,2014-11-02 00:00:00,Cuttack,India,Sri Lanka,0,0,0,0
+151,Sri Lanka,792291,bat,6 wickets,India,2014-11-06 00:00:00,Ahmedabad,India,Sri Lanka,0,0,0,0
+152,South Africa,754723,field,32 runs,Australia,2014-11-14 00:00:00,Perth,Australia,South Africa,0,0,0,0
+153,Hong Kong,791633,bat,4 wickets,Papua New Guinea,2014-11-08 00:00:00,Townsville,Hong Kong,Papua New Guinea,0,0,0,0
+154,Sri Lanka,792293,bat,6 wickets,India,2014-11-09 00:00:00,Hyderabad (Deccan),India,Sri Lanka,0,0,0,0
+155,Australia,754725,bat,3 wickets,South Africa,2014-11-16 00:00:00,Perth,Australia,South Africa,0,0,0,0
+156,Australia,754727,bat,73 runs,Australia,2014-11-19 00:00:00,Canberra,Australia,South Africa,0,0,0,0
+157,Sri Lanka,792297,bat,3 wickets,India,2014-11-16 00:00:00,Ranchi,India,Sri Lanka,0,0,0,0
+158,Zimbabwe,760787,field,87 runs,Bangladesh,2014-11-21 00:00:00,Chittagong,Bangladesh,Zimbabwe,0,0,0,0
+159,Bangladesh,760789,bat,68 runs,Bangladesh,2014-11-23 00:00:00,Chittagong,Bangladesh,Zimbabwe,0,0,0,0
+160,South Africa,754729,bat,3 wickets,Australia,2014-11-21 00:00:00,Melbourne,Australia,South Africa,0,0,0,0
+161,Zimbabwe,760791,field,124 runs,Bangladesh,2014-11-26 00:00:00,Dhaka,Bangladesh,Zimbabwe,0,0,0,0
+162,Bangladesh,760793,bat,21 runs,Bangladesh,2014-11-28 00:00:00,Dhaka,Bangladesh,Zimbabwe,0,0,0,0
+163,Afghanistan,803795,bat,5 wickets,United Arab Emirates,2014-11-28 00:00:00,Dubai (CA),Afghanistan,United Arab Emirates,0,0,0,0
+164,United Arab Emirates,803797,field,6 wickets,United Arab Emirates,2014-11-30 00:00:00,Dubai (CA),Afghanistan,United Arab Emirates,0,0,0,0
+165,Zimbabwe,760795,bat,5 wickets,Bangladesh,2014-12-01 00:00:00,Dhaka,Bangladesh,Zimbabwe,0,0,0,0
+166,England,750665,bat,8 wickets,Sri Lanka,2014-11-29 00:00:00,Colombo (RPS),England,Sri Lanka,0,0,0,0
+167,Afghanistan,803799,field,2 wickets,Afghanistan,2014-12-02 00:00:00,Dubai (CA),Afghanistan,United Arab Emirates,0,0,0,0
+168,England,750663,field,25 runs,Sri Lanka,2014-11-26 00:00:00,Colombo (RPS),England,Sri Lanka,0,0,0,0
+169,Afghanistan,803801,field,30 runs,United Arab Emirates,2014-12-04 00:00:00,Dubai (CA),Afghanistan,United Arab Emirates,0,0,0,0
+170,Pakistan,742619,field,3 wickets,Pakistan,2014-12-08 00:00:00,Dubai (DSC),New Zealand,Pakistan,0,0,0,0
+171,Pakistan,742623,bat,147 runs,Pakistan,2014-12-14 00:00:00,Sharjah,New Zealand,Pakistan,0,0,0,0
+172,Pakistan,742621,bat,4 wickets,New Zealand,2014-12-12 00:00:00,Sharjah,New Zealand,Pakistan,0,0,0,0
+173,England,750669,bat,6 wickets,Sri Lanka,2014-12-07 00:00:00,Colombo (RPS),England,Sri Lanka,0,0,0,0
+174,England,750671,field,5 wickets,England,2011-12-10 20:14:00,Pallekele,England,Sri Lanka,0,0,0,0
+175,New Zealand,742625,bat,7 runs,New Zealand,2014-12-17 00:00:00,Abu Dhabi,New Zealand,Pakistan,0,0,0,0
+176,Sri Lanka,750673,bat,90 runs,Sri Lanka,2014-12-13 00:00:00,Pallekele,England,Sri Lanka,0,0,0,0
+177,New Zealand,742627,bat,68 runs,New Zealand,2014-12-19 00:00:00,Abu Dhabi,New Zealand,Pakistan,0,0,0,0
+178,Sri Lanka,434258,field,7 wickets,Sri Lanka,2010-01-04 00:00:00,Dhaka,Bangladesh,Sri Lanka,0,0,0,0
+179,Sri Lanka,750675,bat,87 runs,Sri Lanka,2014-12-16 00:00:00,Colombo (RPS),England,Sri Lanka,0,0,0,0
+180,Sri Lanka,434259,field,5 wickets,Sri Lanka,2010-01-05 00:00:00,Dhaka,India,Sri Lanka,0,0,0,0
+181,Pakistan,406202,bat,5 wickets,Australia,2010-01-22 00:00:00,Brisbane,Australia,Pakistan,0,0,0,0
+182,India,434263,field,6 wickets,India,2010-01-11 00:00:00,Dhaka,Bangladesh,India,0,0,0,0
+183,Sri Lanka,434261,field,9 wickets,Sri Lanka,2010-01-08 00:00:00,Dhaka,Bangladesh,Sri Lanka,0,0,0,0
+184,Sri Lanka,434262,bat,8 wickets,India,2010-01-10 00:00:00,Dhaka,India,Sri Lanka,0,0,0,0
+185,Sri Lanka,434264,field,4 wickets,Sri Lanka,2010-01-13 00:00:00,Dhaka,India,Sri Lanka,0,0,0,0
+186,Bangladesh,434260,bat,6 wickets,India,2010-01-07 00:00:00,Dhaka,Bangladesh,India,0,0,0,0
+187,Pakistan,406203,field,140 runs,Australia,2010-01-24 00:00:00,Sydney,Australia,Pakistan,0,0,0,0
+188,Australia,406204,bat,40 runs,Australia,2010-01-26 00:00:00,Adelaide,Australia,Pakistan,0,0,0,0
+189,Australia,406205,bat,135 runs,Australia,2010-01-29 00:00:00,Perth,Australia,Pakistan,0,0,0,0
+190,West Indies,406193,bat,8 wickets,Australia,2010-02-09 00:00:00,Adelaide,Australia,West Indies,0,0,0,0
+191,West Indies,406192,field,113 runs,Australia,2010-02-07 00:00:00,Melbourne,Australia,West Indies,0,0,0,0
+192,Pakistan,406206,bat,2 wickets,Australia,2010-01-31 00:00:00,Perth,Australia,Pakistan,0,0,0,0
+193,New Zealand,423784,field,5 wickets,New Zealand,2010-02-08 00:00:00,Dunedin,Bangladesh,New Zealand,0,0,0,0
+194,New Zealand,423785,field,3 wickets,New Zealand,2010-02-11 00:00:00,Christchurch,Bangladesh,New Zealand,0,0,0,0
+195,New Zealand,423783,bat,146 runs,New Zealand,2010-02-05 00:00:00,Napier,Bangladesh,New Zealand,0,0,0,0
+196,Canada,441781,field,4 wickets,Canada,2010-02-18 00:00:00,Sharjah,Afghanistan,Canada,0,0,0,0
+197,West Indies,406195,field,50 runs,Australia,2010-02-14 00:00:00,Brisbane,Australia,West Indies,0,0,0,0
+198,Kenya,441783,field,80 runs,Netherlands,2010-02-18 00:00:00,Nairobi (Gym),Kenya,Netherlands,0,0,0,0
+199,Canada,441780,field,1 run,Afghanistan,2010-02-16 00:00:00,Sharjah,Afghanistan,Canada,0,0,0,0
+200,Kenya,441782,field,6 wickets,Kenya,2010-02-16 00:00:00,Nairobi (Gym),Kenya,Netherlands,0,0,0,0
+201,Australia,406196,bat,125 runs,Australia,2010-02-19 00:00:00,Melbourne,Australia,West Indies,0,0,0,0
+202,South Africa,441827,field,1 run,India,2010-02-21 00:00:00,Jaipur,India,South Africa,0,0,0,0
+203,India,441828,bat,153 runs,India,2010-02-24 00:00:00,Gwalior,India,South Africa,0,0,0,0
+204,South Africa,441829,bat,90 runs,South Africa,2010-02-27 00:00:00,Ahmedabad,India,South Africa,0,0,0,0
+205,Australia,423791,bat,2 wickets,New Zealand,2010-03-03 00:00:00,Napier,Australia,New Zealand,0,0,0,0
+206,England,426420,field,6 wickets,England,2010-02-28 00:00:00,Dhaka,Bangladesh,England,0,0,0,0
+207,England,426421,field,2 wickets,England,2010-03-02 00:00:00,Dhaka,Bangladesh,England,0,0,0,0
+208,Zimbabwe,439140,bat,2 runs,Zimbabwe,2010-03-04 00:00:00,Providence,West Indies,Zimbabwe,0,0,0,0
+209,Bangladesh,426422,field,45 runs,England,2010-03-05 00:00:00,Chittagong,Bangladesh,England,0,0,0,0
+210,Zimbabwe,439141,bat,4 wickets,West Indies,2010-03-06 00:00:00,Providence,West Indies,Zimbabwe,0,0,0,0
+211,Australia,423793,field,6 wickets,Australia,2010-03-09 00:00:00,Hamilton,Australia,New Zealand,0,0,0,0
+212,Australia,423795,field,51 runs,New Zealand,2010-03-13 00:00:00,Wellington,Australia,New Zealand,0,0,0,0
+213,Zimbabwe,439142,field,141 runs,West Indies,2010-03-10 00:00:00,Kingstown,West Indies,Zimbabwe,0,0,0,0
+214,West Indies,439144,field,4 wickets,West Indies,2010-03-14 00:00:00,Kingstown,West Indies,Zimbabwe,0,0,0,0
+215,West Indies,439143,field,4 wickets,West Indies,2010-03-12 00:00:00,Kingstown,West Indies,Zimbabwe,0,0,0,0
+216,India,452146,bat,6 wickets,Zimbabwe,2010-05-28 00:00:00,Bulawayo,India,Zimbabwe,0,0,0,0
+217,West Indies,448370,bat,208 runs,West Indies,2010-04-13 00:00:00,Kingston,Canada,West Indies,0,0,0,0
+218,India,452147,field,7 wickets,India,2010-05-30 00:00:00,Bulawayo,India,Sri Lanka,0,0,0,0
+219,South Africa,439148,bat,17 runs,South Africa,2010-05-24 00:00:00,North Sound,South Africa,West Indies,0,0,0,0
+220,South Africa,439149,bat,67 runs,South Africa,2010-05-28 00:00:00,Roseau,South Africa,West Indies,0,0,0,0
+221,Sri Lanka,452148,field,9 wickets,Sri Lanka,2010-06-01 00:00:00,Bulawayo,Sri Lanka,Zimbabwe,0,0,0,0
+222,West Indies,439150,bat,7 wickets,South Africa,2010-05-30 00:00:00,Roseau,South Africa,West Indies,0,0,0,0
+223,Zimbabwe,452149,field,7 wickets,Zimbabwe,2010-06-03 00:00:00,Harare,India,Zimbabwe,0,0,0,0
+224,West Indies,439151,bat,1 wicket,South Africa,2010-06-03 00:00:00,Port of Spain,South Africa,West Indies,0,0,0,0
+225,Zimbabwe,452151,field,8 wickets,Zimbabwe,2010-06-07 00:00:00,Harare,Sri Lanka,Zimbabwe,0,0,0,0
+226,Sri Lanka,452150,field,6 wickets,Sri Lanka,2010-06-05 00:00:00,Harare,India,Sri Lanka,0,0,0,0
+227,Sri Lanka,452152,field,9 wickets,Sri Lanka,2010-06-09 00:00:00,Harare,Sri Lanka,Zimbabwe,0,0,0,0
+228,Bangladesh,455232,bat,6 wickets,India,2010-06-16 00:00:00,Dambulla,Bangladesh,India,0,0,0,0
+229,Sri Lanka,455231,bat,16 runs,Sri Lanka,2010-06-15 00:00:00,Dambulla,Pakistan,Sri Lanka,0,0,0,0
+230,Scotland,442232,bat,6 wickets,Netherlands,2010-06-15 00:00:00,Rotterdam,Netherlands,Scotland,0,0,0,0
+231,Australia,426384,bat,39 runs,Australia,2010-06-17 00:00:00,Dublin,Australia,Ireland,0,0,0,0
+232,Sri Lanka,455233,bat,126 runs,Sri Lanka,2010-06-18 00:00:00,Dambulla,Bangladesh,Sri Lanka,0,0,0,0
+233,Pakistan,455234,bat,3 wickets,India,2010-06-19 00:00:00,Dambulla,India,Pakistan,0,0,0,0
+234,Scotland,426406,bat,7 wickets,England,2010-06-19 00:00:00,Edinburgh,England,Scotland,0,0,0,0
+235,Australia,426387,bat,4 wickets,England,2010-06-22 00:00:00,Southampton,Australia,England,0,0,0,0
+236,Sri Lanka,455236,field,7 wickets,Sri Lanka,2010-06-22 00:00:00,Dambulla,India,Sri Lanka,0,0,0,0
+237,India,455237,bat,81 runs,India,2010-06-24 00:00:00,Dambulla,India,Sri Lanka,0,0,0,0
+238,Pakistan,455235,bat,139 runs,Pakistan,2010-06-21 00:00:00,Dambulla,Bangladesh,Pakistan,0,0,0,0
+239,Australia,426388,bat,4 wickets,England,2010-06-24 00:00:00,Cardiff,Australia,England,0,0,0,0
+240,England,426390,field,78 runs,Australia,2010-06-30 00:00:00,The Oval,Australia,England,0,0,0,0
+241,England,426389,field,1 wicket,England,2010-06-27 00:00:00,Manchester,Australia,England,0,0,0,0
+242,Canada,450370,bat,6 wickets,Afghanistan,2010-07-01 00:00:00,The Hague,Afghanistan,Canada,0,0,0,0
+243,Netherlands,450372,bat,1 wicket,Scotland,2010-07-01 00:00:00,Amstelveen,Netherlands,Scotland,0,0,0,0
+244,Ireland,450373,bat,39 runs,Ireland,2004-07-03 20:10:00,Rotterdam,Afghanistan,Ireland,0,0,0,0
+245,Ireland,450371,field,7 wickets,Ireland,2010-07-01 00:00:00,Rotterdam,Ireland,Kenya,0,0,0,0
+246,Kenya,450375,field,117 runs,Netherlands,2010-07-03 00:00:00,The Hague,Kenya,Netherlands,0,0,0,0
+247,Australia,426391,bat,42 runs,Australia,2010-07-03 00:00:00,Lord's,Australia,England,0,0,0,0
+248,Canada,450378,bat,7 wickets,Netherlands,2010-07-05 00:00:00,Rotterdam,Canada,Netherlands,0,0,0,0
+249,Kenya,450376,bat,1 wicket,Afghanistan,2010-07-05 00:00:00,Amstelveen,Afghanistan,Kenya,0,0,0,0
+250,Canada,450379,bat,5 wickets,Ireland,2010-07-07 00:00:00,Amstelveen,Canada,Ireland,0,0,0,0
+251,Ireland,450377,field,5 wickets,Ireland,2010-07-05 00:00:00,The Hague,Ireland,Scotland,0,0,0,0
+252,Afghanistan,450381,field,6 wickets,Afghanistan,2010-07-07 00:00:00,The Hague,Afghanistan,Netherlands,0,0,0,0
+253,Scotland,450380,bat,6 runs,Scotland,2010-07-07 00:00:00,Rotterdam,Kenya,Scotland,0,0,0,0
+254,Bangladesh,426403,bat,6 wickets,England,2010-07-08 00:00:00,Nottingham,Bangladesh,England,0,0,0,0
+255,Afghanistan,450382,bat,2 wickets,Scotland,2010-07-09 00:00:00,Rotterdam,Afghanistan,Scotland,0,0,0,0
+256,Ireland,450385,field,6 wickets,Ireland,2010-07-10 00:00:00,Amstelveen,Ireland,Scotland,0,0,0,0
+257,Canada,450387,field,3 wickets,Canada,2010-07-10 00:00:00,Schiedam,Canada,Kenya,0,0,0,0
+258,England,426404,field,5 runs,Bangladesh,2010-07-10 00:00:00,Bristol,Bangladesh,England,0,0,0,0
+259,Ireland,450384,bat,39 runs,Ireland,2010-07-09 00:00:00,Amstelveen,Ireland,Netherlands,0,0,0,0
+260,Netherlands,450386,bat,5 wickets,Afghanistan,2010-07-10 00:00:00,Rotterdam,Afghanistan,Netherlands,0,0,0,0
+261,Bangladesh,426405,field,144 runs,England,2010-07-12 00:00:00,Birmingham,Bangladesh,England,0,0,0,0
+262,Canada,450383,field,6 wickets,Canada,2010-07-09 00:00:00,Schiedam,Canada,Kenya,0,0,0,0
+263,Netherlands,450105,field,6 wickets,Netherlands,2010-07-20 00:00:00,Glasgow,Bangladesh,Netherlands,0,0,0,0
+264,Ireland,450106,field,7 wickets,Ireland,2010-07-15 00:00:00,Belfast,Bangladesh,Ireland,0,0,0,0
+265,New Zealand,456664,bat,3 wickets,Sri Lanka,2010-08-13 00:00:00,Dambulla,New Zealand,Sri Lanka,0,0,0,0
+266,New Zealand,456662,bat,200 runs,New Zealand,2010-08-10 00:00:00,Dambulla,India,New Zealand,0,0,0,0
+267,Scotland,450498,bat,9 wickets,Afghanistan,2010-08-16 00:00:00,Ayr,Afghanistan,Scotland,0,0,0,0
+268,Sri Lanka,456663,bat,6 wickets,India,2010-08-16 00:00:00,Dambulla,India,Sri Lanka,0,0,0,0
+269,Netherlands,464717,field,70 runs,Ireland,2010-08-16 00:00:00,Dublin,Ireland,Netherlands,0,0,0,0
+270,Netherlands,464720,bat,9 wickets,Ireland,2010-08-18 00:00:00,Dublin,Ireland,Netherlands,0,0,0,0
+271,Afghanistan,450501,bat,6 wickets,Scotland,2010-08-17 00:00:00,Ayr,Afghanistan,Scotland,0,0,0,0
+272,India,456666,bat,8 wickets,Sri Lanka,2010-08-22 00:00:00,Dambulla,India,Sri Lanka,0,0,0,0
+273,India,456665,bat,105 runs,India,2010-08-25 00:00:00,Dambulla,India,New Zealand,0,0,0,0
+274,Sri Lanka,456668,bat,74 runs,Sri Lanka,2010-08-28 00:00:00,Dambulla,India,Sri Lanka,0,0,0,0
+275,Canada,464724,field,92 runs,Ireland,2010-09-07 00:00:00,Toronto,Canada,Ireland,0,0,0,0
+276,Pakistan,426428,field,24 runs,England,2010-09-10 00:00:00,Chester-le-Street,England,Pakistan,0,0,0,0
+277,Pakistan,426429,bat,4 wickets,England,2010-09-12 00:00:00,Leeds,England,Pakistan,0,0,0,0
+278,Pakistan,426431,bat,38 runs,Pakistan,2010-09-20 00:00:00,Lord's,England,Pakistan,0,0,0,0
+279,England,426432,bat,121 runs,England,2010-09-22 00:00:00,Southampton,England,Pakistan,0,0,0,0
+280,Zimbabwe,474453,field,2 wickets,Zimbabwe,2010-09-26 00:00:00,Harare,Ireland,Zimbabwe,0,0,0,0
+281,Zimbabwe,474454,field,3 wickets,Zimbabwe,2010-09-28 00:00:00,Harare,Ireland,Zimbabwe,0,0,0,0
+282,Zimbabwe,474455,field,20 runs,Ireland,2010-09-30 00:00:00,Harare,Ireland,Zimbabwe,0,0,0,0
+283,Pakistan,426430,bat,23 runs,Pakistan,2010-09-17 00:00:00,The Oval,England,Pakistan,0,0,0,0
+284,Kenya,470624,bat,92 runs,Kenya,2010-10-07 00:00:00,Nairobi (Gym),Afghanistan,Kenya,0,0,0,0
+285,Bangladesh,476598,field,7 wickets,Bangladesh,2010-10-11 00:00:00,Dhaka,Bangladesh,New Zealand,0,0,0,0
+286,Kenya,470625,bat,6 wickets,Afghanistan,2010-10-09 00:00:00,Nairobi (Gym),Afghanistan,Kenya,0,0,0,0
+287,Afghanistan,470626,bat,8 wickets,Kenya,2010-10-11 00:00:00,Nairobi (Gym),Afghanistan,Kenya,0,0,0,0
+288,Zimbabwe,463144,bat,8 wickets,South Africa,2010-10-17 00:00:00,Potchefstroom,South Africa,Zimbabwe,0,0,0,0
+289,South Africa,463143,bat,64 runs,South Africa,2010-10-15 00:00:00,Bloemfontein,South Africa,Zimbabwe,0,0,0,0
+290,India,464529,field,5 wickets,India,2010-10-20 00:00:00,Visakhapatnam,Australia,India,0,0,0,0
+291,Bangladesh,476600,bat,3 runs,Bangladesh,2010-10-17 00:00:00,Dhaka,Bangladesh,New Zealand,0,0,0,0
+292,New Zealand,476599,field,9 runs,Bangladesh,2010-10-14 00:00:00,Dhaka,Bangladesh,New Zealand,0,0,0,0
+293,Pakistan,461566,bat,8 wickets,South Africa,2010-10-29 00:00:00,Abu Dhabi,Pakistan,South Africa,0,0,0,0
+294,South Africa,463145,bat,272 runs,South Africa,2010-10-22 00:00:00,Benoni,South Africa,Zimbabwe,0,0,0,0
+295,South Africa,461569,bat,1 wicket,Pakistan,2010-11-05 00:00:00,Dubai (DSC),Pakistan,South Africa,0,0,0,0
+296,South Africa,461567,bat,1 wicket,Pakistan,2010-10-31 00:00:00,Abu Dhabi,Pakistan,South Africa,0,0,0,0
+297,Pakistan,461568,field,2 runs,South Africa,2010-11-02 00:00:00,Dubai (DSC),Pakistan,South Africa,0,0,0,0
+298,Australia,446957,bat,1 wicket,Sri Lanka,2010-11-03 00:00:00,Melbourne,Australia,Sri Lanka,0,0,0,0
+299,Sri Lanka,446959,bat,8 wickets,Australia,2010-11-07 00:00:00,Brisbane,Australia,Sri Lanka,0,0,0,0
+300,South Africa,461570,bat,57 runs,South Africa,2010-11-08 00:00:00,Dubai (DSC),Pakistan,South Africa,0,0,0,0
+301,New Zealand,467883,field,40 runs,India,2010-11-28 00:00:00,Guwahati,India,New Zealand,0,0,0,0
+302,Bangladesh,486522,field,6 wickets,Bangladesh,2010-12-03 00:00:00,Dhaka,Bangladesh,Zimbabwe,0,0,0,0
+303,Bangladesh,486520,field,9 runs,Zimbabwe,2010-12-01 00:00:00,Dhaka,Bangladesh,Zimbabwe,0,0,0,0
+304,India,467885,field,9 wickets,India,2010-12-04 00:00:00,Vadodara,India,New Zealand,0,0,0,0
+305,India,467886,field,5 wickets,India,2010-12-07 00:00:00,Bangalore,India,New Zealand,0,0,0,0
+306,Zimbabwe,486523,field,65 runs,Bangladesh,2010-12-06 00:00:00,Dhaka,Bangladesh,Zimbabwe,0,0,0,0
+307,Zimbabwe,486526,bat,6 wickets,Bangladesh,2010-12-12 00:00:00,Chittagong,Bangladesh,Zimbabwe,0,0,0,0
+308,New Zealand,467887,bat,8 wickets,India,2010-12-10 00:00:00,Chennai,India,New Zealand,0,0,0,0
+309,India,467884,field,8 wickets,India,2010-12-01 00:00:00,Jaipur,India,New Zealand,0,0,0,0
+310,India,463151,bat,1 run,India,2011-01-15 00:00:00,Johannesburg,India,South Africa,0,0,0,0
+311,South Africa,463150,bat,135 runs,South Africa,2011-01-12 00:00:00,Durban,India,South Africa,0,0,0,0
+312,England,446962,bat,6 wickets,Australia,2011-01-16 00:00:00,Melbourne,Australia,England,0,0,0,0
+313,South Africa,463152,bat,2 wickets,India,2011-01-18 00:00:00,Cape Town,India,South Africa,0,0,0,0
+314,England,446963,field,46 runs,Australia,2011-01-21 00:00:00,Hobart,Australia,England,0,0,0,0
+315,Pakistan,473923,bat,9 wickets,New Zealand,2011-01-22 00:00:00,Wellington,New Zealand,Pakistan,0,0,0,0
+316,England,446964,bat,4 wickets,Australia,2011-01-23 00:00:00,Sydney,Australia,England,0,0,0,0
+317,England,446965,bat,21 runs,England,2011-01-26 00:00:00,Adelaide,Australia,England,0,0,0,0
+318,Australia,446966,bat,51 runs,Australia,2011-01-30 00:00:00,Brisbane,Australia,England,0,0,0,0
+319,New Zealand,473925,field,43 runs,Pakistan,2011-01-29 00:00:00,Christchurch,New Zealand,Pakistan,0,0,0,0
+320,New Zealand,473926,bat,2 wickets,Pakistan,2011-02-01 00:00:00,Napier,New Zealand,Pakistan,0,0,0,0
+321,England,446967,bat,2 wickets,Australia,2011-02-02 00:00:00,Sydney,Australia,England,0,0,0,0
+322,New Zealand,473927,field,41 runs,Pakistan,2011-02-03 00:00:00,Hamilton,New Zealand,Pakistan,0,0,0,0
+323,Pakistan,473928,field,57 runs,New Zealand,2011-02-05 00:00:00,Auckland,New Zealand,Pakistan,0,0,0,0
+324,West Indies,464992,field,26 runs,Sri Lanka,2011-02-06 00:00:00,Colombo (SSC),Sri Lanka,West Indies,0,0,0,0
+325,Australia,446968,bat,57 runs,Australia,2011-02-06 00:00:00,Perth,Australia,England,0,0,0,0
+326,Kenya,433559,bat,10 wickets,New Zealand,2011-02-20 00:00:00,Chennai,Kenya,New Zealand,0,0,0,0
+327,Bangladesh,433558,field,87 runs,India,2011-02-19 00:00:00,Dhaka,Bangladesh,India,0,0,0,0
+328,Australia,433561,bat,91 runs,Australia,2011-02-21 00:00:00,Ahmedabad,Australia,Zimbabwe,0,0,0,0
+329,Sri Lanka,433560,bat,210 runs,Sri Lanka,2011-02-20 00:00:00,Hambantota,Canada,Sri Lanka,0,0,0,0
+330,South Africa,433564,field,7 wickets,South Africa,2011-02-24 00:00:00,Delhi,South Africa,West Indies,0,0,0,0
+331,Australia,433565,field,7 wickets,Australia,2011-02-25 00:00:00,Nagpur,Australia,New Zealand,0,0,0,0
+332,Netherlands,433562,bat,6 wickets,England,2011-02-22 00:00:00,Nagpur,England,Netherlands,0,0,0,0
+333,Pakistan,433563,bat,205 runs,Pakistan,2011-02-23 00:00:00,Hambantota,Kenya,Pakistan,0,0,0,0
+334,Bangladesh,433566,bat,27 runs,Bangladesh,2011-02-25 00:00:00,Dhaka,Bangladesh,Ireland,0,0,0,0
+335,Pakistan,433567,bat,11 runs,Pakistan,2011-02-26 00:00:00,Colombo (RPS),Pakistan,Sri Lanka,0,0,0,0
+336,Zimbabwe,433570,bat,175 runs,Zimbabwe,2011-02-28 00:00:00,Nagpur,Canada,Zimbabwe,0,0,0,0
+337,England,433572,bat,3 wickets,Ireland,2011-03-02 00:00:00,Bangalore,England,Ireland,0,0,0,0
+338,Netherlands,433569,field,215 runs,West Indies,2011-02-28 00:00:00,Delhi,Netherlands,West Indies,0,0,0,0
+339,Netherlands,433573,field,231 runs,South Africa,2011-03-03 00:00:00,Mohali,Netherlands,South Africa,0,0,0,0
+340,Kenya,433571,bat,9 wickets,Sri Lanka,2011-03-01 00:00:00,Colombo (RPS),Kenya,Sri Lanka,0,0,0,0
+341,Bangladesh,433576,bat,9 wickets,West Indies,2011-03-04 00:00:00,Dhaka,Bangladesh,West Indies,0,0,0,0
+342,Pakistan,433574,bat,46 runs,Pakistan,2011-03-03 00:00:00,Colombo (RPS),Canada,Pakistan,0,0,0,0
+343,Zimbabwe,433575,bat,10 wickets,New Zealand,2011-03-04 00:00:00,Ahmedabad,New Zealand,Zimbabwe,0,0,0,0
+344,New Zealand,433581,bat,110 runs,New Zealand,2011-03-08 00:00:00,Pallekele,New Zealand,Pakistan,0,0,0,0
+345,England,433579,bat,6 runs,England,2011-03-06 00:00:00,Chennai,England,South Africa,0,0,0,0
+346,India,433578,field,5 wickets,India,2011-03-06 00:00:00,Bangalore,India,Ireland,0,0,0,0
+347,Kenya,433580,bat,5 wickets,Canada,2011-03-07 00:00:00,Delhi,Canada,Kenya,0,0,0,0
+348,Netherlands,433582,bat,5 wickets,India,2011-03-09 00:00:00,Delhi,India,Netherlands,0,0,0,0
+349,Ireland,433584,field,44 runs,West Indies,2011-03-11 00:00:00,Mohali,Ireland,West Indies,0,0,0,0
+350,Bangladesh,433585,field,2 wickets,Bangladesh,2011-03-11 00:00:00,Chittagong,Bangladesh,England,0,0,0,0
+351,Zimbabwe,433583,field,139 runs,Sri Lanka,2011-03-10 00:00:00,Pallekele,Sri Lanka,Zimbabwe,0,0,0,0
+352,Australia,433588,bat,60 runs,Australia,2011-03-13 00:00:00,Bangalore,Australia,Kenya,0,0,0,0
+353,India,433586,bat,3 wickets,South Africa,2011-03-12 00:00:00,Nagpur,India,South Africa,0,0,0,0
+354,Canada,433587,field,97 runs,New Zealand,2011-03-13 00:00:00,Mumbai,Canada,New Zealand,0,0,0,0
+355,Netherlands,433590,bat,6 wickets,Bangladesh,2011-03-14 00:00:00,Chittagong,Bangladesh,Netherlands,0,0,0,0
+356,Ireland,433591,field,131 runs,South Africa,2011-03-15 00:00:00,Kolkata,Ireland,South Africa,0,0,0,0
+357,England,433593,bat,18 runs,England,2011-03-17 00:00:00,Chennai,England,West Indies,0,0,0,0
+358,Canada,433592,bat,7 wickets,Australia,2011-03-16 00:00:00,Bangalore,Australia,Canada,0,0,0,0
+359,Ireland,433595,field,6 wickets,Ireland,2011-03-18 00:00:00,Kolkata,Ireland,Netherlands,0,0,0,0
+360,South Africa,433597,bat,206 runs,South Africa,2011-03-19 00:00:00,Dhaka,Bangladesh,South Africa,0,0,0,0
+361,Sri Lanka,433594,bat,112 runs,Sri Lanka,2011-03-18 00:00:00,Mumbai,New Zealand,Sri Lanka,0,0,0,0
+362,Australia,433596,bat,4 wickets,Pakistan,2011-03-19 00:00:00,Colombo (RPS),Australia,Pakistan,0,0,0,0
+363,Zimbabwe,433598,bat,161 runs,Zimbabwe,2011-03-20 00:00:00,Kolkata,Kenya,Zimbabwe,0,0,0,0
+364,West Indies,433600,bat,10 wickets,Pakistan,2011-03-23 00:00:00,Dhaka,Pakistan,West Indies,0,0,0,0
+365,Australia,433601,bat,5 wickets,India,2011-03-24 00:00:00,Ahmedabad,Australia,India,0,0,0,0
+366,India,433599,bat,80 runs,India,2011-03-20 00:00:00,Chennai,India,West Indies,0,0,0,0
+367,England,433603,bat,10 wickets,Sri Lanka,2011-03-26 00:00:00,Colombo (RPS),England,Sri Lanka,0,0,0,0
+368,New Zealand,433602,bat,49 runs,New Zealand,2011-03-25 00:00:00,Dhaka,New Zealand,South Africa,0,0,0,0
+369,New Zealand,433604,bat,5 wickets,Sri Lanka,2011-03-29 00:00:00,Colombo (RPS),New Zealand,Sri Lanka,0,0,0,0
+370,India,433605,bat,29 runs,India,2011-03-30 00:00:00,Mohali,India,Pakistan,0,0,0,0
+371,Sri Lanka,433606,bat,6 wickets,India,2011-04-02 00:00:00,Mumbai,India,Sri Lanka,0,0,0,0
+372,Bangladesh,503364,bat,9 wickets,Australia,2011-04-11 00:00:00,Dhaka,Australia,Bangladesh,0,0,0,0
+373,Bangladesh,503363,field,60 runs,Australia,2011-04-09 00:00:00,Dhaka,Australia,Bangladesh,0,0,0,0
+374,Australia,503365,bat,66 runs,Australia,2011-04-13 00:00:00,Dhaka,Australia,Bangladesh,0,0,0,0
+375,Pakistan,489214,field,7 wickets,Pakistan,2011-04-25 00:00:00,Gros Islet,Pakistan,West Indies,0,0,0,0
+376,West Indies,489213,bat,8 wickets,Pakistan,2011-04-23 00:00:00,Gros Islet,Pakistan,West Indies,0,0,0,0
+377,Pakistan,489215,field,3 wickets,Pakistan,2011-04-28 00:00:00,Bridgetown,Pakistan,West Indies,0,0,0,0
+378,Pakistan,489217,bat,10 wickets,West Indies,2011-05-05 00:00:00,Providence,Pakistan,West Indies,0,0,0,0
+379,Ireland,507996,bat,5 wickets,Pakistan,2011-05-30 00:00:00,Belfast,Ireland,Pakistan,0,0,0,0
+380,West Indies,489221,bat,4 wickets,India,2011-06-06 00:00:00,Port of Spain,India,West Indies,0,0,0,0
+381,India,489224,field,103 runs,West Indies,2011-06-13 00:00:00,North Sound,India,West Indies,0,0,0,0
+382,India,489223,field,3 wickets,India,2011-06-11 00:00:00,North Sound,India,West Indies,0,0,0,0
+383,West Indies,489225,field,7 wickets,West Indies,2011-06-16 00:00:00,Kingston,India,West Indies,0,0,0,0
+384,England,474469,bat,6 wickets,Sri Lanka,2011-07-03 00:00:00,Lord's,England,Sri Lanka,0,0,0,0
+385,England,474468,field,69 runs,Sri Lanka,2011-07-01 00:00:00,Leeds,England,Sri Lanka,0,0,0,0
+386,Scotland,504778,bat,15 runs,Scotland,2011-06-28 00:00:00,Aberdeen,Netherlands,Scotland,0,0,0,0
+387,England,474471,bat,16 runs,England,2011-07-09 00:00:00,Manchester,England,Sri Lanka,0,0,0,0
+388,Scotland,506208,field,183 runs,Sri Lanka,2011-07-13 00:00:00,Edinburgh,Scotland,Sri Lanka,0,0,0,0
+389,Scotland,506207,field,5 wickets,Scotland,2011-07-12 00:00:00,Edinburgh,Ireland,Scotland,0,0,0,0
+390,Afghanistan,518203,bat,17 runs,Afghanistan,2011-08-09 00:00:00,Toronto,Afghanistan,Canada,0,0,0,0
+391,Zimbabwe,522246,field,4 wickets,Zimbabwe,2011-08-12 00:00:00,Harare,Bangladesh,Zimbabwe,0,0,0,0
+392,Sri Lanka,516206,bat,7 wickets,Australia,2011-08-10 00:00:00,Pallekele,Australia,Sri Lanka,0,0,0,0
+393,Zimbabwe,522247,field,7 wickets,Zimbabwe,2011-08-14 00:00:00,Harare,Bangladesh,Zimbabwe,0,0,0,0
+394,Sri Lanka,516207,bat,8 wickets,Australia,2011-08-14 00:00:00,Hambantota,Australia,Sri Lanka,0,0,0,0
+395,Bangladesh,522248,field,5 runs,Zimbabwe,2011-08-16 00:00:00,Harare,Bangladesh,Zimbabwe,0,0,0,0
+396,Bangladesh,522249,field,6 wickets,Bangladesh,2011-08-19 00:00:00,Bulawayo,Bangladesh,Zimbabwe,0,0,0,0
+397,Sri Lanka,516209,bat,5 wickets,Australia,2011-08-20 00:00:00,Colombo (RPS),Australia,Sri Lanka,0,0,0,0
+398,Sri Lanka,516210,field,4 wickets,Sri Lanka,2011-08-22 00:00:00,Colombo (RPS),Australia,Sri Lanka,0,0,0,0
+399,Australia,516208,field,78 runs,Sri Lanka,2011-08-16 00:00:00,Hambantota,Australia,Sri Lanka,0,0,0,0
+400,Zimbabwe,522250,field,93 runs,Bangladesh,2011-08-21 00:00:00,Bulawayo,Bangladesh,Zimbabwe,0,0,0,0
+401,Pakistan,523732,bat,5 runs,Pakistan,2011-09-08 00:00:00,Bulawayo,Pakistan,Zimbabwe,0,0,0,0
+402,England,474478,field,7 wickets,England,2011-09-06 00:00:00,Southampton,England,India,0,0,0,0
+403,Zimbabwe,523733,bat,10 wickets,Pakistan,2011-09-11 00:00:00,Harare,Pakistan,Zimbabwe,0,0,0,0
+404,Zimbabwe,523734,field,28 runs,Pakistan,2011-09-14 00:00:00,Harare,Pakistan,Zimbabwe,0,0,0,0
+405,Kenya,523483,bat,4 wickets,Netherlands,2011-09-13 00:00:00,The Hague,Kenya,Netherlands,0,0,0,0
+406,Ireland,523805,bat,56 runs,Ireland,2011-09-20 00:00:00,Dublin,Canada,Ireland,0,0,0,0
+407,Bangladesh,531983,field,40 runs,West Indies,2011-10-13 00:00:00,Dhaka,Bangladesh,West Indies,0,0,0,0
+408,Canada,523804,field,133 runs,Ireland,2011-09-19 00:00:00,Dublin,Canada,Ireland,0,0,0,0
+409,Bangladesh,531984,bat,8 wickets,West Indies,2011-10-15 00:00:00,Dhaka,Bangladesh,West Indies,0,0,0,0
+410,England,521219,bat,8 wickets,India,2011-10-17 00:00:00,Delhi,England,India,0,0,0,0
+411,India,521218,bat,126 runs,India,2011-10-14 00:00:00,Hyderabad (Deccan),England,India,0,0,0,0
+412,Bangladesh,531985,field,8 wickets,Bangladesh,2011-10-18 00:00:00,Chittagong,Bangladesh,West Indies,0,0,0,0
+413,England,521220,bat,5 wickets,India,2011-10-20 00:00:00,Mohali,England,India,0,0,0,0
+414,New Zealand,527015,field,4 wickets,New Zealand,2011-10-22 00:00:00,Harare,New Zealand,Zimbabwe,0,0,0,0
+415,Zimbabwe,527014,bat,9 wickets,New Zealand,2011-10-20 00:00:00,Harare,New Zealand,Zimbabwe,0,0,0,0
+416,England,521221,bat,6 wickets,India,2011-10-23 00:00:00,Mumbai,England,India,0,0,0,0
+417,South Africa,514026,bat,80 runs,South Africa,2011-10-23 00:00:00,Port Elizabeth,Australia,South Africa,0,0,0,0
+418,New Zealand,527016,bat,1 wicket,Zimbabwe,2011-10-25 00:00:00,Bulawayo,New Zealand,Zimbabwe,0,0,0,0
+419,Sri Lanka,530428,bat,25 runs,Sri Lanka,2011-11-14 00:00:00,Dubai (DSC),Pakistan,Sri Lanka,0,0,0,0
+420,England,521222,field,95 runs,India,2011-10-25 00:00:00,Kolkata,England,India,0,0,0,0
+421,Sri Lanka,530427,bat,8 wickets,Pakistan,2011-11-11 00:00:00,Dubai (DSC),Pakistan,Sri Lanka,0,0,0,0
+422,Pakistan,530430,bat,26 runs,Pakistan,2011-11-20 00:00:00,Sharjah,Pakistan,Sri Lanka,0,0,0,0
+423,Pakistan,530429,bat,21 runs,Pakistan,2011-11-18 00:00:00,Dubai (DSC),Pakistan,Sri Lanka,0,0,0,0
+424,South Africa,514027,bat,3 wickets,Australia,2011-10-28 00:00:00,Durban,Australia,South Africa,0,0,0,0
+425,Sri Lanka,530431,bat,3 wickets,Pakistan,2011-11-23 00:00:00,Abu Dhabi,Pakistan,Sri Lanka,0,0,0,0
+426,India,536929,field,1 wicket,India,2011-11-29 00:00:00,Cuttack,India,West Indies,0,0,0,0
+427,Bangladesh,538069,bat,5 wickets,Pakistan,2011-12-01 00:00:00,Dhaka,Bangladesh,Pakistan,0,0,0,0
+428,India,536930,field,5 wickets,India,2011-12-02 00:00:00,Visakhapatnam,India,West Indies,0,0,0,0
+429,Pakistan,538070,bat,76 runs,Pakistan,2011-12-03 00:00:00,Dhaka,Bangladesh,Pakistan,0,0,0,0
+430,India,536932,bat,153 runs,India,2011-12-08 00:00:00,Indore,India,West Indies,0,0,0,0
+431,India,536933,bat,34 runs,India,2011-12-11 00:00:00,Chennai,India,West Indies,0,0,0,0
+432,Pakistan,538071,bat,58 runs,Pakistan,2011-12-06 00:00:00,Chittagong,Bangladesh,Pakistan,0,0,0,0
+433,India,589309,field,85 runs,Pakistan,2013-01-03 00:00:00,Kolkata,India,Pakistan,0,0,0,0
+434,India,536931,field,16 runs,West Indies,2011-12-05 00:00:00,Ahmedabad,India,West Indies,0,0,0,0
+435,India,589310,bat,10 runs,India,2013-01-06 00:00:00,Delhi,India,Pakistan,0,0,0,0
+436,England,565812,bat,9 runs,England,2013-01-11 00:00:00,Rajkot,England,India,0,0,0,0
+437,Australia,573014,bat,107 runs,Australia,2013-01-11 00:00:00,Melbourne,Australia,Sri Lanka,0,0,0,0
+438,India,565813,bat,127 runs,India,2013-01-15 00:00:00,Kochi,England,India,0,0,0,0
+439,Sri Lanka,573015,field,8 wickets,Sri Lanka,2013-01-13 00:00:00,Adelaide,Australia,Sri Lanka,0,0,0,0
+440,India,565814,field,7 wickets,India,2013-01-19 00:00:00,Ranchi,England,India,0,0,0,0
+441,New Zealand,567358,field,1 wicket,New Zealand,2013-01-19 00:00:00,Paarl,New Zealand,South Africa,0,0,0,0
+442,Australia,573016,bat,4 wickets,Sri Lanka,2013-01-18 00:00:00,Brisbane,Australia,Sri Lanka,0,0,0,0
+443,India,565815,field,5 wickets,India,2013-01-23 00:00:00,Mohali,England,India,0,0,0,0
+444,South Africa,567359,field,27 runs,New Zealand,2013-01-22 00:00:00,Kimberley,New Zealand,South Africa,0,0,0,0
+445,Sri Lanka,573018,field,32 runs,Australia,2013-01-23 00:00:00,Hobart,Australia,Sri Lanka,0,0,0,0
+446,England,565816,field,7 wickets,England,2013-01-27 00:00:00,Dharamsala,England,India,0,0,0,0
+447,West Indies,573022,bat,9 wickets,Australia,2013-02-01 00:00:00,Perth,Australia,West Indies,0,0,0,0
+448,New Zealand,567360,bat,1 wicket,South Africa,2013-01-25 00:00:00,Potchefstroom,New Zealand,South Africa,0,0,0,0
+449,New Zealand,569240,field,3 wickets,New Zealand,2013-02-17 00:00:00,Hamilton,England,New Zealand,0,0,0,0
+450,West Indies,573023,field,54 runs,Australia,2013-02-03 00:00:00,Perth,Australia,West Indies,0,0,0,0
+451,West Indies,573025,bat,5 wickets,Australia,2013-02-08 00:00:00,Sydney,Australia,West Indies,0,0,0,0
+452,Australia,573024,bat,39 runs,Australia,2013-02-06 00:00:00,Canberra,Australia,West Indies,0,0,0,0
+453,West Indies,573026,field,17 runs,Australia,2013-02-10 00:00:00,Melbourne,Australia,West Indies,0,0,0,0
+454,England,569241,field,8 wickets,England,2013-02-20 00:00:00,Napier,England,New Zealand,0,0,0,0
+455,Zimbabwe,593983,field,156 runs,West Indies,2013-02-22 00:00:00,St George's,West Indies,Zimbabwe,0,0,0,0
+456,England,569242,field,5 wickets,England,2013-02-23 00:00:00,Auckland,England,New Zealand,0,0,0,0
+457,Zimbabwe,593985,bat,5 wickets,West Indies,2013-02-26 00:00:00,St George's,West Indies,Zimbabwe,0,0,0,0
+458,Zimbabwe,593984,bat,7 wickets,West Indies,2013-02-24 00:00:00,St George's,West Indies,Zimbabwe,0,0,0,0
+459,Scotland,592270,bat,7 wickets,Afghanistan,2013-03-06 00:00:00,Sharjah,Afghanistan,Scotland,0,0,0,0
+460,Pakistan,567368,field,125 runs,South Africa,2013-03-10 00:00:00,Bloemfontein,Pakistan,South Africa,0,0,0,0
+461,Canada,592266,bat,6 wickets,Kenya,2013-03-11 00:00:00,Dubai (CA),Canada,Kenya,0,0,0,0
+462,Afghanistan,592271,field,5 wickets,Afghanistan,2013-03-08 00:00:00,Sharjah,Afghanistan,Scotland,0,0,0,0
+463,Canada,592267,bat,6 wickets,Kenya,2013-03-13 00:00:00,Dubai (CA),Canada,Kenya,0,0,0,0
+464,South Africa,567371,bat,3 wickets,Pakistan,2013-03-21 00:00:00,Durban,Pakistan,South Africa,0,0,0,0
+465,Pakistan,567372,bat,6 wickets,South Africa,2013-03-24 00:00:00,Benoni,Pakistan,South Africa,0,0,0,0
+466,Zimbabwe,623573,field,121 runs,Bangladesh,2013-05-03 00:00:00,Bulawayo,Bangladesh,Zimbabwe,0,0,0,0
+467,Pakistan,567370,field,34 runs,South Africa,2013-03-17 00:00:00,Johannesburg,Pakistan,South Africa,0,0,0,0
+468,Pakistan,601077,bat,96 runs,Pakistan,2013-05-17 00:00:00,Edinburgh,Pakistan,Scotland,0,0,0,0
+469,Zimbabwe,623575,field,7 wickets,Zimbabwe,2013-05-08 00:00:00,Bulawayo,Bangladesh,Zimbabwe,0,0,0,0
+470,Zimbabwe,623574,field,6 wickets,Zimbabwe,2013-05-05 00:00:00,Bulawayo,Bangladesh,Zimbabwe,0,0,0,0
+471,New Zealand,566923,field,5 wickets,New Zealand,2013-05-31 00:00:00,Lord's,England,New Zealand,0,0,0,0
+472,Pakistan,601613,field,2 wickets,Pakistan,2013-05-26 00:00:00,Dublin,Ireland,Pakistan,0,0,0,0
+473,South Africa,602761,bat,83 runs,South Africa,2013-05-31 00:00:00,Amstelveen,Netherlands,South Africa,0,0,0,0
+474,New Zealand,566924,bat,86 runs,New Zealand,2013-06-02 00:00:00,Southampton,England,New Zealand,0,0,0,0
+475,South Africa,578614,field,26 runs,India,2013-06-06 00:00:00,Cardiff,India,South Africa,0,0,0,0
+476,New Zealand,566925,field,34 runs,England,2013-06-05 00:00:00,Nottingham,England,New Zealand,0,0,0,0
+477,West Indies,578615,field,2 wickets,West Indies,2013-06-07 00:00:00,The Oval,Pakistan,West Indies,0,0,0,0
+478,England,578616,bat,48 runs,England,2013-06-08 00:00:00,Birmingham,Australia,England,0,0,0,0
+479,South Africa,578618,bat,67 runs,South Africa,2013-06-10 00:00:00,Birmingham,Pakistan,South Africa,0,0,0,0
+480,Sri Lanka,578617,bat,1 wicket,New Zealand,2013-06-09 00:00:00,Cardiff,New Zealand,Sri Lanka,0,0,0,0
+481,India,578619,field,8 wickets,India,2013-06-11 00:00:00,The Oval,India,West Indies,0,0,0,0
+482,Sri Lanka,578621,field,7 wickets,Sri Lanka,2013-06-13 00:00:00,The Oval,England,Sri Lanka,0,0,0,0
+483,New Zealand,578624,field,10 runs,England,2013-06-16 00:00:00,Cardiff,England,New Zealand,0,0,0,0
+484,Australia,578625,field,20 runs,Sri Lanka,2013-06-17 00:00:00,The Oval,Australia,Sri Lanka,0,0,0,0
+485,West Indies,597923,field,6 wickets,West Indies,2013-06-28 00:00:00,Kingston,Sri Lanka,West Indies,0,0,0,0
+486,England,566946,field,7 wickets,England,2013-06-19 00:00:00,The Oval,England,South Africa,0,0,0,0
+487,India,566947,field,8 wickets,India,2013-06-20 00:00:00,Cardiff,India,Sri Lanka,0,0,0,0
+488,Kenya,631136,field,12 runs,Scotland,2013-06-30 00:00:00,Aberdeen,Kenya,Scotland,0,0,0,0
+489,England,566948,field,5 runs,India,2013-06-23 00:00:00,Birmingham,England,India,0,0,0,0
+490,West Indies,597924,field,1 wicket,West Indies,2013-06-30 00:00:00,Kingston,India,West Indies,0,0,0,0
+491,India,597925,field,161 runs,Sri Lanka,2013-07-02 00:00:00,Kingston,India,Sri Lanka,0,0,0,0
+492,Ireland,631138,bat,88 runs,Ireland,2013-07-07 00:00:00,Amstelveen,Ireland,Netherlands,0,0,0,0
+493,India,597929,field,1 wicket,India,2013-07-11 00:00:00,Port of Spain,India,Sri Lanka,0,0,0,0
+494,West Indies,645635,field,126 runs,Pakistan,2013-07-14 00:00:00,Providence,Pakistan,West Indies,0,0,0,0
+495,Pakistan,645637,field,37 runs,West Indies,2013-07-16 00:00:00,Providence,Pakistan,West Indies,0,0,0,0
+496,South Africa,635653,field,180 runs,Sri Lanka,2013-07-20 00:00:00,Colombo (RPS),South Africa,Sri Lanka,0,0,0,0
+497,India,643665,field,6 wickets,India,2013-07-24 00:00:00,Harare,India,Zimbabwe,0,0,0,0
+498,South Africa,635655,bat,56 runs,South Africa,2013-07-26 00:00:00,Pallekele,South Africa,Sri Lanka,0,0,0,0
+499,Pakistan,645643,field,4 wickets,Pakistan,2013-07-24 00:00:00,Gros Islet,Pakistan,West Indies,0,0,0,0
+500,Zimbabwe,643667,field,58 runs,India,2013-07-26 00:00:00,Harare,India,Zimbabwe,0,0,0,0
+501,India,643669,field,7 wickets,India,2013-07-28 00:00:00,Harare,India,Zimbabwe,0,0,0,0
+502,South Africa,635656,bat,8 wickets,Sri Lanka,2013-07-28 00:00:00,Pallekele,South Africa,Sri Lanka,0,0,0,0
+503,India,643675,field,9 wickets,India,2013-08-01 00:00:00,Bulawayo,India,Zimbabwe,0,0,0,0
+504,Sri Lanka,635657,bat,128 runs,Sri Lanka,2013-07-31 00:00:00,Colombo (RPS),South Africa,Sri Lanka,0,0,0,0
+505,Zimbabwe,659551,field,90 runs,Pakistan,2013-08-29 00:00:00,Harare,Pakistan,Zimbabwe,0,0,0,0
+506,India,643677,field,7 wickets,India,2013-08-03 00:00:00,Bulawayo,India,Zimbabwe,0,0,0,0
+507,Pakistan,659549,bat,7 wickets,Zimbabwe,2013-08-27 00:00:00,Harare,Pakistan,Zimbabwe,0,0,0,0
+508,Netherlands,660827,field,9 wickets,Netherlands,2013-08-29 00:00:00,King City (NW),Canada,Netherlands,0,0,0,0
+509,Zimbabwe,659553,field,108 runs,Pakistan,2013-08-31 00:00:00,Harare,Pakistan,Zimbabwe,0,0,0,0
+510,Scotland,660837,bat,1 wicket,Ireland,2013-09-06 00:00:00,Belfast,Ireland,Scotland,0,0,0,0
+511,England,566940,field,6 wickets,England,2013-09-03 00:00:00,Dublin (Malahide),England,Ireland,0,0,0,0
+512,England,566942,field,88 runs,Australia,2013-09-08 00:00:00,Manchester,Australia,England,0,0,0,0
+513,Scotland,660841,bat,7 wickets,Ireland,2013-09-08 00:00:00,Belfast,Ireland,Scotland,0,0,0,0
+514,Scotland,566939,field,200 runs,Australia,2013-09-03 00:00:00,Edinburgh,Australia,Scotland,0,0,0,0
+515,England,566944,field,3 wickets,England,2013-09-14 00:00:00,Cardiff,Australia,England,0,0,0,0
+516,Australia,566945,bat,49 runs,Australia,2013-09-16 00:00:00,Southampton,Australia,England,0,0,0,0
+517,Kenya,661891,bat,8 wickets,Afghanistan,2013-10-02 00:00:00,Sharjah,Afghanistan,Kenya,0,0,0,0
+518,Australia,647249,bat,72 runs,Australia,2013-10-13 00:00:00,Pune,Australia,India,0,0,0,0
+519,Australia,647251,bat,9 wickets,India,2013-10-16 00:00:00,Jaipur,Australia,India,0,0,0,0
+520,Australia,647253,field,4 wickets,Australia,2013-10-19 00:00:00,Mohali,Australia,India,0,0,0,0
+521,Afghanistan,661893,field,7 wickets,Afghanistan,2013-10-04 00:00:00,Sharjah,Afghanistan,Kenya,0,0,0,0
+522,India,647259,field,6 wickets,India,2013-10-30 00:00:00,Nagpur,Australia,India,0,0,0,0
+523,Bangladesh,668957,field,4 wickets,Bangladesh,2013-11-03 00:00:00,Fatullah,Bangladesh,New Zealand,0,0,0,0
+524,South Africa,649095,bat,68 runs,South Africa,2013-11-06 00:00:00,Abu Dhabi,Pakistan,South Africa,0,0,0,0
+525,Australia,647261,field,57 runs,India,2013-11-02 00:00:00,Bangalore,Australia,India,0,0,0,0
+526,Pakistan,649093,bat,66 runs,Pakistan,2013-11-01 00:00:00,Dubai (DSC),Pakistan,South Africa,0,0,0,0
+527,Bangladesh,668955,bat,40 runs,Bangladesh,2013-10-31 00:00:00,Dhaka,Bangladesh,New Zealand,0,0,0,0
+528,South Africa,649091,bat,1 run,South Africa,2013-10-30 00:00:00,Sharjah,Pakistan,South Africa,0,0,0,0
+529,South Africa,649097,bat,28 runs,South Africa,2013-11-08 00:00:00,Abu Dhabi,Pakistan,South Africa,0,0,0,0
+530,South Africa,649099,bat,117 runs,South Africa,2013-11-11 00:00:00,Sharjah,Pakistan,South Africa,0,0,0,0
+531,West Indies,676529,bat,6 wickets,India,2013-11-21 00:00:00,Kochi,India,West Indies,0,0,0,0
+532,Pakistan,685731,bat,23 runs,Pakistan,2013-11-24 00:00:00,Cape Town,Pakistan,South Africa,0,0,0,0
+533,West Indies,676531,field,2 wickets,West Indies,2013-11-24 00:00:00,Visakhapatnam,India,West Indies,0,0,0,0
+534,India,676533,field,5 wickets,India,2013-11-27 00:00:00,Kanpur,India,West Indies,0,0,0,0
+535,South Africa,685733,field,1 run,Pakistan,2013-11-27 00:00:00,Port Elizabeth,Pakistan,South Africa,0,0,0,0
+536,India,648651,field,141 runs,South Africa,2013-12-05 00:00:00,Johannesburg,India,South Africa,0,0,0,0
+537,South Africa,685735,field,4 wickets,South Africa,2013-11-30 00:00:00,Centurion,Pakistan,South Africa,0,0,0,0
+538,Sri Lanka,657639,field,2 wickets,Sri Lanka,2013-12-20 00:00:00,Dubai (DSC),Pakistan,Sri Lanka,0,0,0,0
+539,Sri Lanka,657641,field,113 runs,Pakistan,2013-12-22 00:00:00,Sharjah,Pakistan,Sri Lanka,0,0,0,0
+540,Pakistan,657637,bat,11 runs,Pakistan,2013-12-18 00:00:00,Sharjah,Pakistan,Sri Lanka,0,0,0,0
+541,West Indies,661685,field,2 wickets,West Indies,2013-12-26 00:00:00,Auckland,New Zealand,West Indies,0,0,0,0
+542,Pakistan,657645,bat,2 wickets,Sri Lanka,2013-12-27 00:00:00,Abu Dhabi,Pakistan,Sri Lanka,0,0,0,0
+543,Sri Lanka,657643,bat,8 wickets,Pakistan,2013-12-25 00:00:00,Abu Dhabi,Pakistan,Sri Lanka,0,0,0,0
+544,India,648653,field,134 runs,South Africa,2013-12-08 00:00:00,Durban,India,South Africa,0,0,0,0

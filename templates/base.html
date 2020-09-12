@@ -1,0 +1,35 @@
+{% load static %}
+<html>
+<head>
+<title>My Example</title>
+</style>
+</head>
+<body  bgcolor="#0066ff">
+    <b>
+<h1><center><font color="white">CRICKET PREDICTION</center> </h1><br></font>
+<h2><center><font color="white">ENTER DETAILS</center> </h2></font>
+<form action="button1" method="GET/POST">
+<center>
+<table cellspacing="10px" cellpadding="10px" >
+<tr><td> <font color="white" size=4>ENTER TEAM A:</td></font>
+<td><input type="text" name="team1"  placeholder="    enter team name    " required></td></tr>
+<tr><td><font color="white" size=4>ENTER TEAM B: </td></font>
+<td><input type="text" name="team2"  placeholder="   enter team name    " required></td></tr>
+<br> 
+<tr><td><font color="white" size=4>ENTER CITY:</td></font>
+<td><input type="text" name="loc"  placeholder="   enter location   " required></td></tr>
+<br> 
+<tr><td><font color="white" size=4>ENTER TOSSWINNER :</td></font>
+<td><input type="text" name="toss" placeholder="    enter team name   "  required></td></tr>
+<br> 
+<tr><td><font color="white" size=4>ENTER TOSSDECISION :</td></font>
+<td><input type="text" name="tossds"  placeholder="   enter bat or bowl  " required></td></tr>
+<br>
+<tr><td></td><td><input type="SUBMIT" value="SUBMIT"></td></tr>
+</form></b>
+</table>
+</center>
+{% if obj %}
+        {% endif %}
+</body>
+</html>
